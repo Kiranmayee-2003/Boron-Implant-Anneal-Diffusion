@@ -14,8 +14,7 @@ A Python model of a boron ion implant into n-type silicon followed by a 30-minut
 
 
 
-<img src="fig\_implant\_diffusion.png" alt="Results" width="900">
-
+<img src="fig_implant_diffusion.png" alt="Results" width="900">
 
 
 ## What the model does
@@ -31,8 +30,7 @@ A Python model of a boron ion implant into n-type silicon followed by a 30-minut
 
 
 ## How to run
-
-1. Open `Boron\_implant\_anneal\_diffusion\_.ipynb` in [Google Colab](https://colab.research.google.com) (File > Upload notebook).
+1. Open `Boron_implant_anneal_diffusion_.ipynb` in [Google Colab](https://colab.research.google.com) (File > Upload notebook).
 2. Choose Runtime > Run all.
 3. To try other values, change the Inputs cell (dose, range, straggle, substrate doping, anneal time and temperatures) and re-run.
 
